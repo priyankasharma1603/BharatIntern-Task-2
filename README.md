@@ -19,6 +19,5 @@ A chatbox functionality is also available using which users can chat with each o
 <li>JavaScript</li>
 
 ## `Installation`
-<li>Clone the repository: git clone https://github.com/riyanachwani/project-management.git </li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
